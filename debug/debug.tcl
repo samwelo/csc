@@ -1,4 +1,8 @@
+#debug commands
+sh ip int brief
+
 debug isdn status
 
-//test
+
+/**test*/
 show
